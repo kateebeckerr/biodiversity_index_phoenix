@@ -1,5 +1,8 @@
 # Biodiversity Intactness Index Change in Phoenix from 2017 to 2020
 
+Author: Kate Becker
+Published: 10/13/2023
+
 ## About
 
 This repository contains a notebook, phoenix_biodiversity.ipynb, showcasing the effects of land development. In 2021, Maricopa County, which encompasses the Phoenix metropolitan area, was the US county that added the most developed land since 2001. By exploring a biodiversity intactness index (BII) this analysis found changes in the BII around the Phoenix area from 2017 to 2020.
