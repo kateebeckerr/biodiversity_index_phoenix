@@ -1,7 +1,8 @@
 # Biodiversity Intactness Index Change in Phoenix from 2017 to 2020
 
-Author: Kate Becker
-Published: 10/13/2023
+### Author: Kate Becker
+
+### Published: 10/13/2023
 
 ## About
 
